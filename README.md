@@ -1,25 +1,21 @@
-# skeleton-module [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![Greenkeeper badge](https://badges.greenkeeper.io/IFTT/skeleton-module.svg)](https://greenkeeper.io/)
+# background-image-set [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![Greenkeeper badge](https://badges.greenkeeper.io/IFTT/background-image-set.svg)](https://greenkeeper.io/)
 
-[travis-image]: https://travis-ci.org/IFTT/skeleton-module.svg?branch=master
-[travis-url]: https://travis-ci.org/IFTT/skeleton-module
-[npm-image]: https://img.shields.io/npm/v/@iftt/skeleton-module.svg
-[npm-url]: https://npmjs.org/package/@iftt/skeleton-module
-[downloads-image]: https://img.shields.io/npm/dm/@iftt/skeleton-module.svg
-[downloads-url]: https://npmjs.org/package/@iftt/skeleton-module
+[travis-image]: https://travis-ci.org/IFTT/background-image-set.svg?branch=master
+[travis-url]: https://travis-ci.org/IFTT/background-image-set
+[npm-image]: https://img.shields.io/npm/v/@iftt/background-image-set.svg
+[npm-url]: https://npmjs.org/package/@iftt/background-image-set
+[downloads-image]: https://img.shields.io/npm/dm/@iftt/background-image-set.svg
+[downloads-url]: https://npmjs.org/package/@iftt/background-image-set
 
 ## About
 
-**Create new modules with this skeleton**
 
-`git clone https://github.com/IFTT/skeleton-module.git`
-
-`git remote rm origin`
 
 ---
 
 ## ISC License (ISC)
 
-Copyright 2019 <IFTT>
+Copyright 2019 <CraigglesO>
 Copyright (c) 2004-2010 by Internet Systems Consortium, Inc. ("ISC")
 Copyright (c) 1995-2003 by Internet Software Consortium
 

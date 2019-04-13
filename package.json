@@ -1,7 +1,7 @@
 {
-  "name": "@iftt/skeleton-module",
+  "name": "@iftt/background-image-set",
   "version": "1.0.0",
-  "description": "When creating new NodeJS modules, use this skeletal structure",
+  "description": "A bunch of background 1080p images to take advantage of",
   "main": "lib/index.js",
   "scripts": {
     "lint+build+test": "yarn run lint && yarn run build && yarn run test",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iftt/skeleton-module.git"
+    "url": "https://github.com/iftt/background-image-set.git"
   },
   "author": "Craig OConnor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IFTT/skeleton-module/issues"
+    "url": "https://github.com/IFTT/background-image-set/issues"
   },
-  "homepage": "https://github.com/IFTT/skeleton-module#readme",
+  "homepage": "https://github.com/IFTT/background-image-set#readme",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.2.2",
