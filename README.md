@@ -7,9 +7,25 @@
 [downloads-image]: https://img.shields.io/npm/dm/@iftt/background-image-set.svg
 [downloads-url]: https://npmjs.org/package/@iftt/background-image-set
 
-## About
+## How to use
 
+### Install
+```sh
+npm install --save background-image-set
+# or
+yarn add background-image-set
+```
 
+### Nodejs
+```js
+const backgrounds = require('background-image-set');
+// ES6
+import backgrounds from 'background-image-set';
+
+Array.isArray(backgrounds); // true
+```
+
+`backgrounds` is an array of URLs pointing to images saved on github. Use and enjoy. ^_^
 
 ---
 
