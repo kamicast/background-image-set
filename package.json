@@ -1,6 +1,6 @@
 {
   "name": "background-image-set",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A bunch of background 1080p images to take advantage of",
   "main": "./images.json",
   "scripts": {
