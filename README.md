@@ -9,6 +9,14 @@
 
 ## How to use
 
+### Create image set
+```sh
+# npm
+npm run create
+# yarn
+yarn run create
+```
+
 ### Install
 ```sh
 npm install --save background-image-set
