@@ -28,7 +28,14 @@ const backgrounds = require('background-image-set');
 // ES6
 import backgrounds from 'background-image-set';
 
+type Background = {
+  url: string,
+  author?: string
+};
+
 Array.isArray(backgrounds); // true - an array of strings pointing to images
+
+typeof backgrounds[0] === Background // true
 ```
 
 `backgrounds` is an array of URLs pointing to images saved on github. Use and enjoy. ^_^

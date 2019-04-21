@@ -8,7 +8,7 @@ const githubDirectory = 'https://github.com/Kamicast/background-image-set/raw/ma
   let fileList = fs.readdirSync('./images');
   fileList.filter(isImage); // filter out any files that are not images...
   fileList = fileList.map(image => {
-    return githubDirectory + image;
+    return {url: githubDirectory + image};
   });
   fs.writeFileSync('images.json', JSON.stringify(fileList));
 })();
