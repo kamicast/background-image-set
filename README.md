@@ -2,10 +2,10 @@
 
 [travis-image]: https://travis-ci.org/Kamicast/background-image-set.svg?branch=master
 [travis-url]: https://travis-ci.org/Kamicast/background-image-set
-[npm-image]: https://img.shields.io/npm/v/oconnorct1/background-image-set.svg
-[npm-url]: https://npmjs.org/package/oconnorct1/background-image-set
-[downloads-image]: https://img.shields.io/npm/dm/oconnorct1/background-image-set.svg
-[downloads-url]: https://npmjs.org/package/oconnorct1/background-image-set
+[npm-image]: https://img.shields.io/npm/v/background-image-set.svg
+[npm-url]: https://npmjs.org/package/background-image-set
+[downloads-image]: https://img.shields.io/npm/dm/background-image-set.svg
+[downloads-url]: https://npmjs.org/package/background-image-set
 
 ## How to use
 
