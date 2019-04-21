@@ -1,6 +1,6 @@
 {
   "name": "background-image-set",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A bunch of background 1080p images to take advantage of",
   "main": "./images.json",
   "scripts": {
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CraigglesO/background-image-set.git"
+    "url": "https://github.com/Kamicast/background-image-set.git"
   },
   "author": "Craig OConnor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CraigglesO/background-image-set/issues"
+    "url": "https://github.com/Kamicast/background-image-set/issues"
   },
-  "homepage": "https://github.com/CraigglesO/background-image-set#readme",
+  "homepage": "https://github.com/Kamicast/background-image-set#readme",
   "devDependencies": {
     "@babel/cli": "^7.4.3",
     "@babel/core": "^7.4.3",

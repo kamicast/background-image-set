@@ -1,7 +1,7 @@
 import fs      from 'fs';
 import isImage from 'is-image';
 
-const githubDirectory = 'https://github.com/CraigglesO/background-image-set/raw/master/images/';
+const githubDirectory = 'https://github.com/Kamicast/background-image-set/raw/master/images/';
 
 (function() {
   // find all images in "images" directory, save each one to a JSON file:

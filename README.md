@@ -1,11 +1,11 @@
-# background-image-set [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![Greenkeeper badge](https://badges.greenkeeper.io/IFTT/background-image-set.svg)](https://greenkeeper.io/)
+# background-image-set [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![Greenkeeper badge](https://badges.greenkeeper.io/Kamicast/background-image-set.svg)](https://greenkeeper.io/)
 
-[travis-image]: https://travis-ci.org/IFTT/background-image-set.svg?branch=master
-[travis-url]: https://travis-ci.org/IFTT/background-image-set
-[npm-image]: https://img.shields.io/npm/v/@iftt/background-image-set.svg
-[npm-url]: https://npmjs.org/package/@iftt/background-image-set
-[downloads-image]: https://img.shields.io/npm/dm/@iftt/background-image-set.svg
-[downloads-url]: https://npmjs.org/package/@iftt/background-image-set
+[travis-image]: https://travis-ci.org/Kamicast/background-image-set.svg?branch=master
+[travis-url]: https://travis-ci.org/Kamicast/background-image-set
+[npm-image]: https://img.shields.io/npm/v/oconnorct1/background-image-set.svg
+[npm-url]: https://npmjs.org/package/oconnorct1/background-image-set
+[downloads-image]: https://img.shields.io/npm/dm/oconnorct1/background-image-set.svg
+[downloads-url]: https://npmjs.org/package/oconnorct1/background-image-set
 
 ## How to use
 
@@ -22,7 +22,7 @@ const backgrounds = require('background-image-set');
 // ES6
 import backgrounds from 'background-image-set';
 
-Array.isArray(backgrounds); // true
+Array.isArray(backgrounds); // true - an array of strings pointing to images
 ```
 
 `backgrounds` is an array of URLs pointing to images saved on github. Use and enjoy. ^_^
