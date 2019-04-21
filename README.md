@@ -1,4 +1,4 @@
-# background-image-set [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![Greenkeeper badge](https://badges.greenkeeper.io/Kamicast/background-image-set.svg)](https://greenkeeper.io/)
+# background-image-set [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url]
 
 [travis-image]: https://travis-ci.org/Kamicast/background-image-set.svg?branch=master
 [travis-url]: https://travis-ci.org/Kamicast/background-image-set
